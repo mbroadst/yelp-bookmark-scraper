@@ -8,7 +8,8 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "cheerio": "^0.22.0",
-    "tinyreq": "^3.2.2"
+    "tinyreq": "^3.2.2",
+    "yargs": "^7.1.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
